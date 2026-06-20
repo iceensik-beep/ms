@@ -1,0 +1,6 @@
+{
+  "name": "Block Blast",
+  "description": "An exciting Block Blast-style puzzle game with a campaign adventure mode, unique obstacles, power-ups, and level progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
